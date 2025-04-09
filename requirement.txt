@@ -1,0 +1,12 @@
+streamlit
+torch
+sounddevice
+soundfile
+gTTS
+PyPDF2
+transformers
+langchain-core
+langchain-community
+langchain-ollama
+huggingface-hub
+faiss-cpu
